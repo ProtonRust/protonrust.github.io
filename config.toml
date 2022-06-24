@@ -1,4 +1,4 @@
-baseurl = "https://protonrust.com/"
+baseurl = "https://protonrust.com/" 
 title = "Universal"
 theme = "universal"
 languageCode = "en-us"

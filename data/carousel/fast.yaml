@@ -1,0 +1,12 @@
+weight: 2
+title: "Blazing fast servers"
+description: >
+  <ul class="list-style-none">
+    <li>We host on powerfull dedicaed servers</li>
+    <li>Capable enough to support hundrets of players</li>
+    <li>Europe based for low latencies even in sea regions</li>
+    <li>All our servers are connected via gigabit fibre for reduced lag</li>
+    <li>GUARANTEED 0% downtime!</li>
+  </ul>
+image: "img/carousel/template-easy-code.png"
+#href: "https://devcows.github.io/hugo-universal-theme/"

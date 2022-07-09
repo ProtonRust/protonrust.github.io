@@ -4,40 +4,24 @@ description = "Frequently asked questions"
 keywords = ["FAQ","How do I","questions","what if"]
 +++
 
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.
+Hello and welcome to the FAQ. Please read this first and see if it answers your question. If not, consider [contacting]({{< ref "contact.md" >}}) us.
 
-## 1. WHAT TO DO IF I HAVE STILL NOT RECEIVED THE ORDER?
+## 1. How do I join the server?
 
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.
+There are two ways for you to join the server:
 
-* Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-* Aliquam tincidunt mauris eu risus.
-* Vestibulum auctor dapibus neque.
+- Open the server list and choose "*Modded*". Search for "*ProtonRust*" and our server should appear there. Click on the name and choose "*Connect*". **THIS WONT WORK IF YOU HAVE A GAMEBAN**
+- Press `F1` and type `connect play.protonrust.com:25566` and press enter.
 
-## 2. WHAT ARE THE POSTAL RATES?
+## 2. I can't attack any players on the server / My name is marked with *TAR*
 
-Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer farm-to-table, raw denim aesthetic synth nesciunt you probably haven't heard of them accusamus labore sustainable VHS.
+This means that out anti cheat system, *ProtonAntiCheat*, doesn't trust you enough.
+Every player on ProtonRust has a unique PAC score, similar to your VAC score. This score determines what you can and cant do on our servers. If this value is low you wont be able to PvP other players, and if it falls further you wont be able join the server at all. This won't you haven't been banned before but if you have an EAC or similar might not work.
 
-## 3. DO YOU SEND OVERSEAS?
-
-Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer farm-to-table, raw denim aesthetic synth nesciunt you probably haven't heard of them accusamus labore sustainable VHS.
-
-## 4. WHY ARE YOU MORE EXPENSIVE THAN OTHERS?
-
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.
-
-* Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-* Aliquam tincidunt mauris eu risus.
-* Vestibulum auctor dapibus neque.
-
-## 5. ANOTHER IMPORTANT QUESTION
-
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.
-
-* Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-* Aliquam tincidunt mauris eu risus.
-* Vestibulum auctor dapibus neque.
+What can I do to improve my PAC score?
+- Set your profile to public, including your friend list and what games you have. This information helps us to determine if you are related to other known cheaters and how much your steam account is worth (cheats are less likely to spend money on steam).
+- Play more Rust! It doesn't necessarily have to be on our server, but having more hours helps us verify that you are not cheating.
 
 ---
 
-> In case you haven't found the answer for your question please feel free to contact us, our customer support will be happy to help you.
+> In case you haven't found the answer for your question please feel free to contact us, we will be happy to help you.

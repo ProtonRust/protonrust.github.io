@@ -1,0 +1,11 @@
+weight: 3
+title: "Non-EAC"
+description: >
+  <ul class="list-style-none">
+    <li>Our server is open for players without Easy Anticheat</li>
+    <li>Playing on linux? You are welcome to join!</li>
+    <li>If you have been wrongly banned feel free to play here</li>
+    <li>Our own custom ProtonAntiCheat system protects against any cheaters,
+    often better than EAC</li>
+  </ul>
+image: "img/carousel/template-easy-customize.png"

@@ -1,0 +1,10 @@
+weight: 3
+title: "Active moderation and community"
+description: >
+  <ul class="list-style-none">
+     <li>Very active staff. Typical respone time \< 15 minutes</li>
+     <li>Automatic issue and report ticketing system</li>
+     <li>Discord-Rust chat link. Communicate with other players without beeing in-game!</li>
+   </ul>
+image: "img/carousel/template-mac.png"
+href: "faq"
